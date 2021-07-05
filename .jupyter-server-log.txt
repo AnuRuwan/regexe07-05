@@ -26,3 +26,18 @@
 [I 22:36:58.519 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[I 22:43:01.969 NotebookApp] Creating new notebook in 
+[I 22:43:01.984 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[I 22:43:03.312 NotebookApp] Kernel started: d2067b79-13e5-4abf-9b21-d941aed6aaf3, name: python3
+[I 22:43:03.312 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 22:43:03.312 NotebookApp] Culling kernels even with connected clients
+Websocket closed
+[I 22:43:55.408 NotebookApp] Starting buffering for d2067b79-13e5-4abf-9b21-d941aed6aaf3:4975e58605e942ce8d36a66bbb8c2217
+[I 22:44:04.244 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[I 22:45:55.621 NotebookApp] Saving file at /binder/environment.yml
+Websocket closed
+[I 22:46:42.105 NotebookApp] New terminal with automatic name: 3
+TermSocket.open: 3
+TermSocket.open: Opened 3
